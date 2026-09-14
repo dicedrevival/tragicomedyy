@@ -22,8 +22,4 @@ $$\textcolor{#788C97}{c+h}\ \textcolor{#8498A2}{hvy}\ \textcolor{#90A3AB}{enc}\ 
 ![Image](https://github.com/user-attachments/assets/7acf8df6-0f76-460b-bcca-ec4d99a75eab)
 <div align="center">
   
-⠀　</div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3c3c04a3-e547-4cc5-93cb-4e6db0000f97" width="250" alt="Pumpkin GIF" />
-</p>
