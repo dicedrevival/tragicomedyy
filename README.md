@@ -8,8 +8,8 @@
   ![image](https://github.com/user-attachments/assets/1da7a42a-699f-4ec7-a9ef-2d0362fcaab8)
   <div align="center">
       
-$$\textcolor{#66563F}{pawn\ /\ gourdy}\ :\ \textcolor{#6F7048}{she/him}\ \textcolor{#747951}{any\ pronouns}\ .$$
-$$\textcolor{#80683B}{c+h}\ \textcolor{#896D38}{hvy}\ \textcolor{#92743A}{enc}\ ,\ \textcolor{#9A7A3D}{int}\ \textcolor{#A17F42}{freely}\ \textcolor{#A88648}{unless}\ \textcolor{#AE8B4D}{name}\ \textcolor{#B39152}{says}\ \textcolor{#B89657}{otherwise}\ .$$
+$$\textcolor{#4F6170}{pawn\ /\ gourdy}\ :\ \textcolor{#5D7180}{she/him}\ \textcolor{#6B7F8C}{any\ pronouns}\ .$$
+$$\textcolor{#788C97}{c+h}\ \textcolor{#8498A2}{hvy}\ \textcolor{#90A3AB}{enc}\ ,\ \textcolor{#9BAEB4}{int}\ \textcolor{#A6B7B9}{freely}\ \textcolor{#B1BEBB}{unless}\ \textcolor{#B9C4BC}{name}\ \textcolor{#C1C9BE}{says}\ \textcolor{#C8CCBE}{otherwise}\ .$$
 
 
 <div align="center">
