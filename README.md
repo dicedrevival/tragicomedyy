@@ -3,7 +3,7 @@
 
 <p align="center"
   
-   ![](https://komarev.com/ghpvc/?username=tragicomedyy&label=𝓒𝒂𝒏𝒅𝒊𝒆𝒔%20𝓡ₑ𝓬ₑᵢᵥₑ𝓭𑣲&color=C3CCC2&labelColor=B3B0B0)
+   ![](https://komarev.com/ghpvc/?username=tragicomedyy&label=𝓒𝒂𝒏𝒅𝒊𝒆𝒔%20𝓡eceived&color=C3CCC2&labelColor=B3B0B0)
 
   ![image](https://github.com/user-attachments/assets/3eeb0f38-5f15-4b09-a211-6036edfab4aa)
   <div align="center">
