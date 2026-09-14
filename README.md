@@ -11,7 +11,7 @@
 $$\textcolor{#4F6170}{pawn\ /\ gourdy}\ :\ \textcolor{#5D7180}{she/him}\ \textcolor{#6B7F8C}{any\ pronouns}\ .$$
 $$\textcolor{#788C97}{c+h}\ \textcolor{#8498A2}{hvy}\ \textcolor{#90A3AB}{enc}\ ,\ \textcolor{#9BAEB4}{int}\ \textcolor{#A6B7B9}{freely}\ \textcolor{#B1BEBB}{unless}\ \textcolor{#B9C4BC}{name}\ \textcolor{#C1C9BE}{says}\ \textcolor{#C8CCBE}{otherwise}\ .$$
 
-![gif](https://github.com/user-attachments/assets/98efea50-11f3-4aa3-a53d-2e4301c662f7)![gif](https://github.com/user-attachments/assets/ee25afcc-7102-4f72-a47c-37be58eba1ca)![gif](https://github.com/user-attachments/assets/ae432358-43e8-480d-bc89-66b36761a8a9)
+![gif](https://github.com/user-attachments/assets/98efea50-11f3-4aa3-a53d-2e4301c662f7)![gif](https://github.com/user-attachments/assets/ee25afcc-7102-4f72-a47c-37be58eba1ca)![gif](https://github.com/user-attachments/assets/ae432358-43e8-480d-bc89-66b36761a8a9)![image](https://github.com/user-attachments/assets/af99c4dc-957a-441b-bb97-ca590f4395b8)
 
 <div align="center">
   
