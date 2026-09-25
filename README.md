@@ -4,8 +4,10 @@
 <p align="center"
   
    ![](https://komarev.com/ghpvc/?username=tragicomedyy&label=Ɛ=3%20&color=5A0B0B&labelColor=300707)
-
-  ![image](https://github.com/user-attachments/assets/1da7a42a-699f-4ec7-a9ef-2d0362fcaab8)
+<div align="center">
+  
+  ![image](https://github.com/user-attachments/assets/9d43e263-3e59-4130-b769-6fd6b5c195b2)
+  
   <div align="center">
 
 <div align="center">
@@ -19,10 +21,3 @@ $$\textcolor{#C04A4A}{c+h}\ \textcolor{#B84A4A}{hvy}\ \textcolor{#AD4444}{enc}\ 
   
 
 <div align="center">
-
-
-![Image](https://github.com/user-attachments/assets/29613d85-741a-4533-8ecb-e16438247901)
-![Image](https://github.com/user-attachments/assets/7acf8df6-0f76-460b-bcca-ec4d99a75eab)
-<div align="center">
-  
-
