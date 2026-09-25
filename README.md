@@ -22,5 +22,4 @@ $$\textcolor{#C04A4A}{c+h}\ \textcolor{#B84A4A}{hvy}\ \textcolor{#AD4444}{enc}\ 
 
 <div align="center">
 
-
 ![Image](https://github.com/user-attachments/assets/29613d85-741a-4533-8ecb-e16438247901)
